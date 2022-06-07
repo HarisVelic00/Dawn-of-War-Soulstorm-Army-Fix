@@ -1,0 +1,43 @@
+LocalInfo =
+{
+	associated_race = "guard_race",
+	badge_name = "guard_race/Cadian85",
+	banner_name = "guard_race/Cadian85",
+}
+
+UnitCustomization =  
+{
+	pattern_name = "default",
+	force_name = "85th Cadian",
+	
+	Eyes =  
+	{
+		b = 27,
+		g = 27,
+		r = 116,
+	},
+	Weapons =  
+	{
+		b = 24,
+		g = 25,
+		r = 20,
+	},
+	Primary =  
+	{
+		b = 27,
+		g = 27,
+		r = 116,
+	},
+	Trim =  
+	{
+		b = 212,
+		g = 212,
+		r = 212,
+	},
+	Secondary =  
+	{
+		b = 27,
+		g = 27,
+		r = 116,
+	},
+}

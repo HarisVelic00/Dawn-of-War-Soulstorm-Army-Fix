@@ -1,0 +1,42 @@
+LocalInfo =  
+{
+	badge_name = "guard_race/Cadian001",
+	associated_race = "guard_race",
+	banner_name = "guard_race/Cadian_001",
+}
+UnitCustomization =  
+{
+	pattern_name = "default",
+	force_name = "1st Kronus Liberators",
+	Eyes =  
+	{
+		b = 90,
+		g = 151,
+		r = 136,
+	},
+	Weapons =  
+	{
+		b = 32,
+		g = 53,
+		r = 45,
+	},
+	Primary =  
+	{
+		b = 32,
+		g = 53,
+		r = 45,
+	},
+	Trim =  
+	{
+		b = 65,
+		g = 167,
+		r = 186,
+	},
+	Secondary =  
+	{
+		b = 90,
+		g = 151,
+		r = 136,
+	},
+}
+
